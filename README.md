@@ -1,4 +1,4 @@
-# app-laboratory
+# harshiv-technologies
 
 Generic developer website for Harshiv Technologies (Dhruvit Kachhiya). Hosts the **Developer Website**
 and **Support URL** used in the App Store and Google Play Console listings for all apps.
